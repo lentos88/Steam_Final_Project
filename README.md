@@ -6,6 +6,15 @@ This project analyzes Steam games data to uncover insights about game quality, p
 
 The analysis combines multiple datasets, performs extensive data cleaning and preparation, and applies custom indices to support data-driven storytelling.
 
+## My Contribution
+
+- Designed and implemented custom KPIs to evaluate game popularity and player satisfaction.
+- Developed analytical metrics to identify under-recognized ("hidden gem") games across different genres.
+- Performed exploratory data analysis (EDA), including data cleaning, consistency checks, and feature preparation.
+- Analyzed relationships between popularity indicators, review scores, and genre distribution using Python.
+- Created visualizations to support data-driven insights and analytical conclusions.
+- Contributed to interpreting results and shaping the final analytical narrative of the project.
+
 ---
 
 ## Project Objectives
